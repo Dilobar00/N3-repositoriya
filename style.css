@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(142, 171, 234)
+}
+
+.card-title {
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    max-width:  260px;
+    padding: 5px;
+    margin: 100px auto;
+    margin: 40px  0px 150px 640px;
+    text-align: center;
+}
+
+.sayt {
+    color: rgb(142, 171, 234);
+}
+
+.container {
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    max-width: 600px;
+    width: 100%;
+    margin: 100px auto;
+    margin: 0px  14px 60px   440px;
+    padding: 25px;
+    text-align: center;
+}
+
+.card {
+    color: #FFFFFF;
+}
+
+.sayt {
+    color: rgb(142, 171, 234);
+}
+
+.card {
+    display: inline-block;
+    margin: 0 30;
+    margin-left: 60px ;
+    padding: 10px;
+    text-align: center;
+}
+
+.sun {
+    color: rgb(142, 171, 234)
+}
+
+.sunny {
+    color: rgb(142, 171, 234)
+}
+
+.oblako {
+    color: rgb(142, 171, 234);
+}
+
+.bulut {
+    color: rgb(142, 171, 234);
+
+}
